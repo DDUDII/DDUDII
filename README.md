@@ -5,7 +5,7 @@
 ### 🎀 ᴀʙᴏᴜᴛ ᴍᴇ 🧸
 
 
- 🌱 sᴛᴜᴅʏɪɴɢ ᴛᴏ ʙᴇ ᴀ ғʀᴏɴᴛ-ᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ
+ 🌱 sᴛᴜᴅʏɪɴɢ
  
  
 <a href="https://velog.io/@ddudii"><img src="https://img.shields.io/badge/%20Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ddudii"/></a>
